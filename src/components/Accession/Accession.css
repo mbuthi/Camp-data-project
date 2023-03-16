@@ -1,0 +1,29 @@
+.image img {
+    height: 30px;
+    cursor: pointer;
+}
+
+.row.updateAddLink {
+    flex-direction: column;    
+}
+
+.label {
+    font-size: 15px;
+}
+
+.group {
+    padding-bottom: 40px;
+}
+
+.group input {
+    float: right;
+}
+
+.group:not(:last-child){
+    padding-top: 50px;
+}
+
+.addUpdateBtn {
+    padding: 15px 40px;
+    margin: 0 auto;
+}

@@ -1,0 +1,17 @@
+.search {
+    justify-content: center; 
+    margin-bottom: 40px;   
+}
+
+.search-input{
+    height: 50px;
+    width: 400px;
+    margin-right: 60px;
+
+}
+
+.search .btn {
+    height: 50px;
+    padding: 0px 45px;
+}
+
